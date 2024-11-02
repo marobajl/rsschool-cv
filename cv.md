@@ -19,3 +19,15 @@ I am a student of the Belarusian State University of Transport with a strong pas
 - **Methodologies:** Agile, Scrum
 
 ---
+
+## Education
+
+**Bachelor's Degree in [business analyst, programmer]**  
+[Belarusian State University of Transport], [2026]
+
+**Courses and Certifications**  
+- [Python generation], [Stepic], [2024]
+---
+
+## English Language
+**Proficiency Level:** [Intermediate]  
